@@ -1,0 +1,22 @@
+{
+  "name": "Pointiv",
+  "short_name": "Pointiv",
+  "description": "Upgrade your mouse pointer with agentic actions for selected text.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f5f5f7",
+  "theme_color": "#5e5ce6",
+  "icons": [
+    {
+      "src": "/pointiv-icon-128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/pointiv-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
